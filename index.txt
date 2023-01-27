@@ -4,6 +4,6 @@
 <title> сайт</title>
 </head>
 <body>
-<!--содержимое-->
+
 </body>
 </html>
